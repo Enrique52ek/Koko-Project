@@ -1,2 +1,0 @@
-# Koko-Project
-Training Completions
